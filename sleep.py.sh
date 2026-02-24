@@ -8,4 +8,4 @@
 
 source ~/start-pyenv
 
-srun python sleep.py 120
+srun python3 sleep.py 120
